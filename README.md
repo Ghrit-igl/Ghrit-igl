@@ -1,215 +1,187 @@
-<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f5d4&height=260&section=header&text=AYUSH%20KAUSHIK&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Systems%20%C2%B7%20Compilers%20%C2%B7%20AI-Code%20Security&descSize=18&descAlignY=62&animation=twinkling" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f5d4&height=260&section=header&text=AYUSH%20KAUSHIK&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Founder%20%C2%B7%20AI%20Systems%20Architect%20%C2%B7%20Security%20Researcher&descSize=17&descAlignY=62&animation=twinkling" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=760&lines=I+build+the+foundation+first.;Language+%E2%86%92+VM+%E2%86%92+OS+%E2%86%92+Security+%E2%86%92+Product.;Parse.+Analyze.+Verify.+Then+write+to+disk.;Intent+to+Silicon." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=800&lines=Provably+secure+AI+and+blockchain+systems.;Parse.+Analyze.+Verify.+Then+execute.;Securing+AI-written+code+in+under+2ms.;Intent+to+Silicon." alt="typing"/>
 
 <br/><br/>
 
-<a href="https://adumate.in"><img src="https://img.shields.io/badge/SITE-adumate.in-00F5D4?style=for-the-badge&labelColor=0f0c29"/></a>
+<a href="https://adumate.in"><img src="https://img.shields.io/badge/FOUNDER-Adumate-00F5D4?style=for-the-badge&labelColor=0f0c29"/></a>
 <a href="https://www.linkedin.com/in/ayushh-kaushiq-1a950825a"><img src="https://img.shields.io/badge/LINKEDIN-connect-0077B5?style=for-the-badge&labelColor=0f0c29&logo=linkedin&logoColor=white"/></a>
 <a href="https://youtube.com/@ayushkaushik08"><img src="https://img.shields.io/badge/YOUTUBE-How_Computers_Think-FF0000?style=for-the-badge&labelColor=0f0c29&logo=youtube&logoColor=white"/></a>
 <a href="https://x.com/o_Ayush_kaushik"><img src="https://img.shields.io/badge/X-@o__Ayush__kaushik-ffffff?style=for-the-badge&labelColor=0f0c29&logo=x&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ghrit-igl&label=PROFILE+VIEWS&color=302b63&style=for-the-badge" alt="views"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════ TERMINAL ═══════════════════════════ -->
 ```console
 ayush@silicon:~$ whoami
-Ayush Kaushik — systems & AI-security engineer · founder @ Adumate
+Ayush Kaushik — founder @ Adumate · AI systems architect · security researcher
 
-ayush@silicon:~$ cat research_agenda.txt
- [1] Compilers & VMs       language design · HIR · bytecode · JIT · codegen
- [2] AI-code security      block unsafe agent output BEFORE it touches disk
- [3] Low-level systems     boot · paging · memory isolation · amnesic OS
- [4] Verification          taint flows · invariants · formal checks
+ayush@silicon:~$ cat thesis.txt
+ Autonomous systems (AI agents, blockchains, runtimes) fail at the seams.
+ I build the infrastructure from scratch and verify it before it executes.
 
-ayush@silicon:~$ cat philosophy.txt
- Build the infrastructure from scratch.
- Then build the product on top of it.
+ayush@silicon:~$ cat research_areas.txt
+ [1] AI-code & agent security      stop unsafe agent output before it lands
+ [2] Blockchain & crypto security  invariants · consensus · smart-contract safety
+ [3] Compilers & VMs               language design · IR · bytecode · codegen
+ [4] Autonomous agent systems      multi-agent engineering · orchestration
 
 ayush@silicon:~$ status
- ● building   Noteer evaluation · AAYU benchmark suite
+ ● shipped    Noteer → Meta Global AI Developer Hackathon 2026 (submitted)
+ ● building   Noteer evaluation write-up · AAYU benchmarks
  ● studying   B.Sc. Mathematics (Hons), BRABU · exp. 2027
- ● teaching   How Computers Think — Zero to Research (YouTube)
 ```
 
 ---
 
-## 🧭 The stack, bottom-up
+## 🧭 Research map
 
 ```mermaid
 flowchart TB
-    subgraph L1["Layer 1 · Language"]
-        A["🧠 AAYU<br/>Intent-to-Silicon language"]
+    T["🎯 Thesis<br/>verify autonomous systems before they execute"]
+
+    subgraph AI["AI & agent security"]
+        N["🛡️ Noteer<br/>pre-write code guard + API shield"]
     end
-    subgraph L2["Layer 2 · Runtime"]
-        B["⚙️ silicon-vm<br/>NaN-boxed bytecode VM"]
+    subgraph BC["Blockchain & crypto security"]
+        L["⛓️ neuro-ledger<br/>autonomous blockchain + smart contracts"]
+        Q["🔐 quantum-sim<br/>BB84 QKD · Grover"]
     end
-    subgraph L3["Layer 3 · System"]
-        C["💻 yellow-flash-os<br/>RAM-only micro-OS"]
+    subgraph SYS["Compilers & systems"]
+        A["🧠 AAYU"] --> V["⚙️ silicon-vm"]
+        OS["💻 yellow-flash-os"]
     end
-    subgraph L4["Layer 4 · Security"]
-        D["🛡️ Noteer<br/>pre-write AI-code guard"]
+    subgraph AG["Agent systems"]
+        B["🤖 brain-os<br/>multi-agent engineering engine"]
     end
-    subgraph L5["Layer 5 · Product"]
-        E["🚀 Adumate"]
-    end
-    A --> B --> C
-    B --> E
-    D --> E
+
+    T --> N
+    T --> L
+    T --> A
+    T --> B
+    N -.secures.-> B
+    A -.targets.-> V
 
     classDef n fill:#1b1740,stroke:#00f5d4,color:#fff,stroke-width:2px;
-    class A,B,C,D,E n;
+    class T,N,L,Q,A,V,OS,B n;
 ```
-
-<sub>Edit the arrows to match your real dependencies. A wrong diagram is worse than none.</sub>
+<sub>Edit the arrows to match your real dependencies.</sub>
 
 ---
 
-## 🔬 Flagship #1 — [Noteer](https://github.com/Ghrit-igl/Noteer)
-### Pre-write security gate for AI coding agents
-
-**Problem.** Coding agents write code to disk before anyone reviews it. That code can contain injection paths, unsafe calls and hallucinated packages.
-**Approach.** Intercept the agent's output, parse it into a CST, run taint analysis, and only then allow the write.
-
-```mermaid
-sequenceDiagram
-    autonumber
-    participant AG as 🤖 AI Agent
-    participant NT as 🛡️ Noteer
-    participant CST as 🌳 Tree-sitter CST
-    participant TA as 🔎 Taint Engine
-    participant FS as 💾 Disk
-
-    AG->>NT: proposed code
-    NT->>CST: parse (<N> languages)
-    CST-->>NT: syntax tree
-    NT->>TA: source → sink analysis
-    TA-->>NT: findings
-    alt clean
-        NT->>FS: write ✅
-    else risky
-        NT-->>AG: blocked ⛔ + reason
-    end
-```
-
-| Metric | Result | Dataset / Method |
-|:--|:--:|:--|
-| Detection rate | `<%>` | `<dataset>` |
-| False-positive rate | `<%>` | `<dataset>` |
-| Latency per file | `<ms>` | `<hardware>` |
-| Languages | `<N>` | Tree-sitter grammars |
-
-**Built for:** Meta Global AI Developer Hackathon 2026 · Result: `<submitted / placed>`
-`Python` `Tree-sitter` `DPoP (RFC 9449)` `Llama`
-
----
-
-## ⚙️ Flagship #2 — [AAYU / Intent-to-Silicon](https://github.com/Ghrit-igl/INTENT-TO-SILICON)
-### A systems language in Rust
-
-```mermaid
-flowchart LR
-    S["📄 Source"] --> LX["Lexer"] --> P["Parser"] --> H["HIR"]
-    H --> O["Bytecode<br/>optimizer"]
-    O --> V["silicon-vm"]
-    H --> CL["Cranelift"]
-    H --> LL["LLVM"]
-    CL --> N["⚡ Native"]
-    LL --> N
-```
-
-```text
-// <paste a REAL 6–10 line AAYU snippet here. Code speaks louder than adjectives.>
-```
-
-| Benchmark | AAYU | Baseline | Notes |
-|:--|:--:|:--:|:--|
-| `<fib(35)>` | `<ms>` | `<Python/Lua ms>` | `<machine>` |
-| `<loop 1e8>` | `<ms>` | `<…>` | `<…>` |
-
-**Status:** `<what compiles and runs today, plainly>`
-
----
-
-## 🧱 More systems work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [silicon-vm](https://github.com/Ghrit-igl/silicon-vm)
-64-bit IEEE-754 **NaN-boxing**, bytecode VM in Rust.
-JIT: `<status>` · Tests: `<N>`
-
-`Rust`
-
-</td>
-<td width="50%" valign="top">
-
-### [yellow-flash-os](https://github.com/Ghrit-igl/yellow-flash-os)
-Amnesic **volatile-RAM** live micro-OS. x86_64, Limine, QEMU.
-Boots: `<yes + screenshot>` · Implemented: `<paging / shell / …>`
-
-`Assembly` `C` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [aayu-mobile-ide](https://github.com/Ghrit-igl/aayu-mobile-ide)
-Touch-first web IDE for AAYU. React 19 · TypeScript · Monaco.
-
-`TypeScript` `PWA`
-
-</td>
-<td width="50%" valign="top">
-
-### [portfolio](https://github.com/Ghrit-igl/portfolio)
-Interactive 3D portfolio. React 19 · Three.js · Vite.
-
-`TypeScript` `Three.js`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Toolbox
+## 🛡️ Flagship — [Noteer](https://github.com/Ghrit-igl/Noteer)
+### Dual-pillar AI security: guard code at write time, defend APIs at runtime
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![Latency](https://img.shields.io/badge/CST_scan_median-0.771_ms-00F5D4?style=for-the-badge&labelColor=0f0c29)
+![P95](https://img.shields.io/badge/P95-1.583_ms-00F5D4?style=for-the-badge&labelColor=0f0c29)
+![Tests](https://img.shields.io/badge/automated_tests-270%2B-00F5D4?style=for-the-badge&labelColor=0f0c29)
+![Hackathon](https://img.shields.io/badge/Meta_Global_AI_Hackathon-2026_submission-0081FB?style=for-the-badge&labelColor=0f0c29)
 
 </div>
 
+**Problem.** AI coding agents write unreviewed code straight to disk, and models hallucinate package names that attackers can register ("slopsquatting", USENIX Security 2025). Autonomous crawlers also harvest proprietary APIs.
+
+```mermaid
+flowchart LR
+    A["AI agent"] --> B["Tree-sitter CST"] --> C["Taint + slopsquatting checks"]
+    C --> D["Llama 3.3 ranked fixes"] --> E["Exploit sandbox"] --> F["Clean commit"]
+    G["Hostile crawler"] --> H["Edge proxy"] --> I["Llama 3.2 classifier"] --> J["Deception tarpit"]
+    F --> K[("Merkle audit store")]
+    J --> K
+```
+
+| Pillar | Metric | Result | Scope |
+|:--|:--|--:|:--|
+| Guard | CST scan latency, median / P95 | **0.771 ms / 1.583 ms** | Tree-sitter parse |
+| Guard | Insecure rate on bundled demo cases | **100% → 0%** | Sandbox-verified, *not* full CyberSecEval |
+| Shield | Precision / recall / F1 | **100% / 100% / 1.000** | **24 labeled sessions**, in-house testbench |
+| Shield | Proprietary fields leaked | **0** | Schema minimization + honeypot |
+| Shield | Edge proxy P50 latency | **9.61 ms** | Live HTTP testbench |
+
+<sub>Shield results come from a small self-built session set. Next: larger independent evaluation + full CyberSecEval run.</sub>
+
+`Python` `TypeScript` `Tree-sitter` `Meta Llama 3.2 / 3.3` `DPoP (RFC 9449)` `Docker`
+
 ---
+
+## ⛓️ Blockchain & crypto security
+
+| Project | What it is | Verification evidence |
+|:--|:--|:--|
+| [neuro-ledger](https://github.com/Ghrit-igl/neuro-ledger) | Single-file autonomous blockchain with smart contracts | `<property tests / fuzzing / invariants checked: list them>` |
+| [quantum-sim](https://github.com/Ghrit-igl/quantum-sim) | Quantum circuit simulator: Bell states, Grover, BB84 QKD | `<test against known analytical results>` |
+| [cyber-sentinel](https://github.com/Ghrit-igl/cyber-sentinel) | Autonomous SIEM and packet inspector | `<benchmark / test method>` |
+
+**Security approach:** threat-model first → state the invariants → test them (property-based + fuzzing) → publish the evidence.
+
+<!-- UNCOMMENT WHEN YOU HAVE REAL, PUBLIC REPORTS (audits, contests, bounties, CVEs, CTFs):
+
+### Security research log
+| Target | Scope | Category | Result | Report |
+|:--|:--|:--|:--|:--:|
+| `<protocol>` | `<contracts>` | Audit / Contest / Bounty / CVE | `<severity or rank>` | [link](...) |
+
+Profiles: [Code4rena](...) · [Sherlock](...) · [Cantina](...) · [Immunefi](...)
+-->
+
+---
+
+## 🤖 AI systems architecture
+
+| Project | Architecture |
+|:--|:--|
+| [brain-os](https://github.com/Ghrit-igl/brain-os) | Autonomous multi-agent software-engineering engine. `<agents · orchestration · eval results>` |
+| [Noteer](https://github.com/Ghrit-igl/Noteer) | Guard layer for agent output (above) |
+
+---
+
+## ⚙️ Compilers & systems
+
+```mermaid
+flowchart LR
+    S["Source"] --> P["Lexer · Parser"] --> H["HIR"] --> O["Bytecode optimizer"] --> V["silicon-vm"]
+    H --> CL["Cranelift"] --> N["Native"]
+    H --> LL["LLVM"] --> N
+```
+
+| Project | Role | Evidence |
+|:--|:--|:--|
+| [AAYU / Intent-to-Silicon](https://github.com/Ghrit-igl/INTENT-TO-SILICON) | Systems language in Rust | `<what compiles today · benchmark vs baseline>` |
+| [silicon-vm](https://github.com/Ghrit-igl/silicon-vm) | Bytecode VM, 64-bit NaN-boxing | `<test count · benchmark>` |
+| [yellow-flash-os](https://github.com/Ghrit-igl/yellow-flash-os) | Amnesic RAM-only micro-OS (x86_64, Limine, QEMU) | `<boot screenshot>` |
+
+---
+
+## 🚀 Founder
+
+**[Adumate](https://adumate.in)** — AI API rotation and service-discovery platform.
+`<users / uptime / requests handled — only real numbers>`
+
+**Teaching:** [How Computers Think — Zero to Research](https://youtube.com/@ayushkaushik08), from silicon gates to neural architectures.
+
+---
+
+<!-- UNCOMMENT WHEN YOU HAVE WRITING / PAPERS:
+
+## 📝 Research notes
+| Title | Topic | Link |
+|:--|:--|:--|
+| `<Noteer evaluation>` | AI-code security | [link](...) |
+-->
 
 ## 🗺️ Roadmap
 
 ```mermaid
 timeline
-    title Where this is going
-    Now : Noteer evaluation write-up : AAYU benchmark suite
-    Next : silicon-vm JIT tier : Documented boot sequence for yellow-flash-os
-    Later : Noteer threat model paper : AAYU language spec v1
+    title Next
+    Now : Noteer evaluation on a larger independent set : AAYU benchmark suite
+    Next : Full CyberSecEval run for Noteer Guard : Property-based tests and fuzzing for neuro-ledger
+    Later : Noteer threat-model write-up : First public security report
 ```
 
 ---
@@ -219,22 +191,12 @@ timeline
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ghrit-igl/Ghrit-igl/output/github-snake-dark.svg" alt="contribution snake" width="100%"/>
-
-</div>
-
----
-
 <details>
 <summary><b>🎓 Background</b></summary>
 
 <br/>
 
-- B.Sc. Mathematics (Hons), BRABU — expected 2027
-- Self-taught in systems programming and ML
-- Creator of the YouTube series *How Computers Think — Zero to Research*
+B.Sc. Mathematics (Hons), BRABU, expected 2027 · self-taught in systems programming and ML.
 
 </details>
 
@@ -243,7 +205,7 @@ timeline
 
 <br/>
 
-Collaboration on compilers, VMs, AI-code security and verification.
+AI-security research collaboration · blockchain security · compilers and VMs.
 📧 `<your public email>`
 
 </details>
