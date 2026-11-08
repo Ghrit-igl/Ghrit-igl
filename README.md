@@ -1,111 +1,181 @@
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-# ⚡ AYUSH KAUSHIK
-### **Deep-Tech Systems Architect • AI Security Researcher • Compiler & OS Engineer**
-#### *Founder @ Adumate • Creator of AAYU (Intent-to-Silicon) & Noteer*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f5d4&height=220&section=header&text=AYUSH%20KAUSHIK&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Systems%20%C2%B7%20Compilers%20%C2%B7%20AI-Code%20Security&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
-[![Portfolio Website](https://img.shields.io/badge/🌐_3D_Cinematic_Portfolio-Visit_Live-00F5D4?style=for-the-badge&logo=three.js&logoColor=black)](https://github.com/Ghrit-igl/portfolio)
-[![Meta Hackathon 2026](https://img.shields.io/badge/Meta_Hackathon_2026-Noteer_AI_Security-0081FB?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/Ghrit-igl/Noteer)
-[![Silicon Language](https://img.shields.io/badge/Language_Ecosystem-AAYU_Silicon-39FF14?style=for-the-badge&logo=rust&logoColor=black)](https://github.com/Ghrit-igl/INTENT-TO-SILICON)
+<a href="https://github.com/Ghrit-igl">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00F5D4&center=true&vCenter=true&width=720&lines=I+build+the+foundation+first.;Language+%E2%86%92+VM+%E2%86%92+Security+layer+%E2%86%92+Product.;Rust+%C2%B7+Python+%C2%B7+TypeScript;Intent+to+Silicon." alt="typing"/>
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Academic-B.Sc._Mathematics_(Hons)_•_NIELIT_Delhi-blue?style=flat-square&logo=academia" alt="Education" />
-  <img src="https://img.shields.io/badge/Focus-AI_Safety_•_Compilers_•_Web3_Security_•_OS-blueviolet?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Stack-Rust_•_C++_•_Go_•_Solidity_•_Python_•_Assembly-orange?style=flat-square" alt="Stack" />
-  <img src="https://img.shields.io/badge/Achievements-Pull_Shark_•_Quickdraw-yellow?style=flat-square&logo=github" alt="Achievements" />
-</p>
+<br/>
 
----
-
-> *"I build intelligence closer to the metal — bridging frontier neural reasoning, formal compiler proofs, bare-metal microkernels, and zero-trust cryptographic security."*
-
----
+<a href="https://adumate.in"><img src="https://img.shields.io/badge/SITE-adumate.in-00F5D4?style=for-the-badge&labelColor=0f0c29" alt="site"/></a>
+<a href="https://www.linkedin.com/in/ayushh-kaushiq-1a950825a"><img src="https://img.shields.io/badge/LINKEDIN-connect-0077B5?style=for-the-badge&labelColor=0f0c29&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://youtube.com/@ayushkaushik08"><img src="https://img.shields.io/badge/YOUTUBE-How_Computers_Think-FF0000?style=for-the-badge&labelColor=0f0c29&logo=youtube&logoColor=white" alt="youtube"/></a>
+<a href="https://x.com/o_Ayush_kaushik"><img src="https://img.shields.io/badge/X-@o__Ayush__kaushik-ffffff?style=for-the-badge&labelColor=0f0c29&logo=x&logoColor=white" alt="x"/></a>
 
 </div>
 
-## 🌌 Executive Summary & Research Horizons
+<br/>
 
-Specialized in building mission-critical autonomous systems targeting the research and engineering standards of **Google DeepMind / Google Brain, Meta AI, Anthropic, and IIT Delhi**:
+<!-- ═══════════════════════ WHOAMI ═══════════════════════ -->
+```console
+ayush@silicon:~$ whoami
+Ayush Kaushik — systems & AI-security engineer, founder @ Adumate
 
-* 🛡️ **Autonomous AI Safety & Defense-in-Depth:** Author of **[Noteer](https://github.com/Ghrit-igl/Noteer)** — a pre-write Concrete Syntax Tree (CST) gatekeeper and runtime API clone shield for AI coding agents (Meta Global AI Developer Hackathon 2026). Incorporates CyberSecEval baselines, Slopsquatting mitigations, and USENIX Security 2025 citations.
-* ⚙️ **Deterministic Compiler Architecture:** Architect of **[AAYU (Intent-to-Silicon)](https://github.com/Ghrit-igl/INTENT-TO-SILICON)** — an autonomous systems programming language engineered in Rust with custom High-Level Intermediate Representation (HIR), bytecode optimizer, Cranelift/LLVM codegen, and native silicon execution.
-* ⚡ **Sovereign Amnesic Microkernels:** Author of **[Yellow-Flash OS](https://github.com/Ghrit-igl/yellow-flash-os)** — a bare-metal x86_64 volatile-RAM live microkernel operating system with Limine UEFI/BIOS bootloader and rootfs isolation.
-* ⛓️ **Web3, Blockchain & Cryptographic Security:** Auditing and engineering decentralized smart contract verification engines, EVM bytecode analyzers, reentrancy guards, and DPoP (RFC 9449) cryptographic token binding for multi-agent autonomy.
-* 🔮 **Cinematic 3D Simulation & Developer Tooling:** Creator of **[KoeeO](https://github.com/Ghrit-igl/KoeeO)** (holographic 3D virtual science lab in pure AAYU), **[AAYU Mobile IDE](https://github.com/Ghrit-igl/aayu-mobile-ide)** (touch-optimized Android silicon IDE), and the **[Interactive 3D Portfolio](https://github.com/Ghrit-igl/portfolio)** (React 19 + Three.js technology galaxy).
+ayush@silicon:~$ cat focus.txt
+[1] Compilers & VMs      language design · IR · bytecode · codegen
+[2] AI-code security     stop unsafe agent output BEFORE it touches disk
+[3] Low-level systems    boot · memory · isolation
 
----
+ayush@silicon:~$ cat philosophy.txt
+Build the infrastructure from scratch. Then build products on top of it.
 
-## 🏛️ Flagship Engineering & Research Repositories
-
-| Repository | Domain | Core Tech Stack | Breakthrough Impact |
-| :--- | :--- | :--- | :--- |
-| **[Noteer](https://github.com/Ghrit-igl/Noteer)** | AI Safety & Agent Guarding | Meta Llama 3.2 / 3.3, Tree-sitter CST, DPoP, Python, VS Code API | **Meta Hackathon 2026 Flagship**: Autonomous Dual-Pillar AI Security Fabric. Intercepts untrusted AI code pre-write via 10-language AST taint tracking and locks down API endpoints against unauthorized cloning. |
-| **[INTENT-TO-SILICON](https://github.com/Ghrit-igl/INTENT-TO-SILICON)** | Systems & Compilers | Rust, LLVM, Cranelift, Bytecode VM, Assembly | **The AAYU Language Ecosystem**: Intent-to-Silicon compiler architecture, language specification, benchmark suite, and autonomous hardware runtime. |
-| **[Yellow-Flash OS](https://github.com/Ghrit-igl/yellow-flash-os)** | Bare-Metal Operating Systems | x86_64 Assembly, C, Limine Bootloader, QEMU | **Sovereign Amnesic Live Micro-OS**: Runs 100% in volatile RAM with zero disk footprints, cryptographic firmware validation, and ephemeral isolation. |
-| **[KoeeO](https://github.com/Ghrit-igl/KoeeO)** | 3D Simulation & Scientific HUD | Pure AAYU, 3D WebGL, Multi-threaded HTTP | **Tony Stark Holographic Virtual Lab**: Fast physics and chemistry simulation engine with interactive spatial interfaces. |
-| **[aayu-mobile-ide](https://github.com/Ghrit-igl/aayu-mobile-ide)** | Cloud & Mobile Dev Tools | React 19, TypeScript, Monaco Editor, PWA | **Touch-Optimized Silicon IDE**: First mobile development environment for AAYU language with live AST inspection and native bytecode execution. |
-| **[portfolio](https://github.com/Ghrit-igl/portfolio)** | 3D Graphics & Visual Engineering | React 19, Three.js, Vite 8, Tailwind CSS 4 | **Interactive 3D Cinematic Portfolio**: Orbiting celestial technology universe displaying languages, research labs, and neural chess engine. |
-
----
-
-## 📊 Live GitHub Telemetry & Verified Achievements
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ghrit-igl&theme=flat&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghrit-igl&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true" alt="Ghrit-igl GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghrit-igl&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ghrit-igl&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Streak" width="96%" />
-</p>
-
-</div>
-
----
-
-## 🛠️ Technical Arsenal & Core Competencies
-
-```
-┌──────────────────────────┬────────────────────────────────────────────────────────┐
-│ DOMAIN                   │ TECHNOLOGIES, FRAMEWORKS & PROTOCOLS                   │
-├──────────────────────────┼────────────────────────────────────────────────────────┤
-│ Systems & Languages      │ Rust, C++20, C, Go, x86_64 Assembly, Python, AAYU      │
-│ Compiler Architecture    │ LLVM, Cranelift, Tree-sitter CST, Lexing, HIR, AST     │
-│ AI Safety & Alignment    │ Meta Llama 3.3, CyberSecEval, Slopsquatting, RAG Guard │
-│ Web3 & Blockchain        │ Solidity, EVM Bytecode, Smart Contract Audits, Web3.js │
-│ Operating Systems        │ Linux Kernel, Limine Bootloader, QEMU, Memory Paging   │
-│ Web & Mobile Platforms   │ TypeScript, React 19, Three.js, Next.js, Monaco, PWA   │
-│ Security & Cryptography  │ DPoP (RFC 9449), Merkle DAGs, Zero-Trust, Taint Flows  │
-└──────────────────────────┴────────────────────────────────────────────────────────┘
+ayush@silicon:~$ status
+● building   Noteer eval write-up · AAYU benchmarks
 ```
 
 ---
 
-## 🎓 Academic Foundation & Publications In-Progress
+## 🧭 How my projects connect
 
-* **B.Sc. Mathematics (Hons)** — Babasaheb Bhimrao Ambedkar Bihar University (BRABU), expected 2027
-* **Systems & Computing Foundation** — NIELIT Delhi
-* **Primary Mathematical Fields:** Linear Algebra, Graph Theory, Abstract Algebra, Probability & Stochastic Processes, Combinatorial Optimization
-* **YouTube Knowledge Base:** [How Computers Think — Zero to Research](https://youtube.com/@ayushkaushik08) (Deep dives from silicon gates to neural architectures)
+```mermaid
+flowchart LR
+    A["🧠 AAYU<br/>language"] --> B["⚙️ silicon-vm<br/>bytecode VM"]
+    B --> C["💻 yellow-flash-os<br/>RAM-only micro-OS"]
+    A --> D["🛡️ Noteer<br/>AI-code guard"]
+    D --> E["🚀 Adumate<br/>product layer"]
+    B --> E
+
+    classDef core fill:#302b63,stroke:#00f5d4,color:#fff,stroke-width:2px;
+    class A,B,C,D,E core;
+```
+
+> One stack, built bottom-up: **language → runtime → OS → security → product.**
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🔬 Selected work
 
-<p align="center">
-  <a href="https://github.com/Ghrit-igl/portfolio"><img src="https://img.shields.io/badge/Portfolio-adumate.in-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ayushh-kaushiq-1a950825a"><img src="https://img.shields.io/badge/LinkedIn-Ayush_Kaushik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://youtube.com/@ayushkaushik08"><img src="https://img.shields.io/badge/YouTube-How_Computers_Think-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="mailto:ayushkaushik1441@gmail.com"><img src="https://img.shields.io/badge/Email-ayushkaushik1441@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/o_Ayush_kaushik"><img src="https://img.shields.io/badge/X-@o__Ayush__kaushik-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <em>Open to high-impact research collaborations, AI safety red-teaming, and compiler/systems engineering initiatives.</em>
-</p>
+### 🛡️ [Noteer](https://github.com/Ghrit-igl/Noteer)
+**Pre-write guard for AI coding agents**
+
+Agents write unreviewed code straight to disk. Noteer intercepts it first.
+
+```
+agent output
+   ↓  Tree-sitter CST
+   ↓  taint analysis
+   ↓  verdict
+write  ✅  /  block  ⛔
+```
+
+`Python` `Tree-sitter` `DPoP (RFC 9449)`
+
+**Eval:** `<detection rate> · <false-positive rate> · <dataset>`
+**Meta Global AI Developer Hackathon 2026:** `<submitted / result>`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [AAYU / Intent-to-Silicon](https://github.com/Ghrit-igl/INTENT-TO-SILICON)
+**Systems language in Rust**
+
+```
+source → lexer → parser → HIR
+       → bytecode optimizer
+       → Cranelift / LLVM
+```
+
+`Rust` `LLVM` `Cranelift`
+
+**Status:** `<what compiles and runs today>`
+**Bench:** `<workload · baseline · result>`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [silicon-vm](https://github.com/Ghrit-igl/silicon-vm)
+**Bytecode VM · NaN-boxed 64-bit values**
+
+| Benchmark | Result |
+|:--|--:|
+| `<fib(35)>` | `<ms>` |
+| `<loop 1e8>` | `<ms>` |
+
+`Rust` · JIT: `<status>`
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 [yellow-flash-os](https://github.com/Ghrit-igl/yellow-flash-os)
+**Amnesic live micro-OS · runs fully in RAM**
+
+x86_64 · Limine bootloader · QEMU
+
+Boots: `<yes / screenshot>`
+Implemented: `<paging · shell · ...>`
+
+`Assembly` `C` `Python`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Stack
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+
+</div>
+
+---
+
+## 📡 Currently
+
+| | |
+|:--|:--|
+| 🔨 **Building** | Noteer evaluation write-up, AAYU benchmark suite |
+| 📚 **Studying** | B.Sc. Mathematics (Hons), BRABU · exp. 2027 |
+| 🎬 **Teaching** | [How Computers Think — Zero to Research](https://youtube.com/@ayushkaushik08) |
+
+<details>
+<summary><b>🗺️ Roadmap (click to expand)</b></summary>
+
+<br/>
+
+- [ ] Noteer: publish evaluation + threat model
+- [ ] AAYU: public benchmark table vs baselines
+- [ ] silicon-vm: JIT tier
+- [ ] yellow-flash-os: documented boot sequence
+
+</details>
+
+<details>
+<summary><b>📬 Contact</b></summary>
+
+<br/>
+
+Open to collaborations on compilers, VMs and AI-code security.
+📧 `<your public email>`
+
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer"/>
