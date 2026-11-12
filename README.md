@@ -147,21 +147,76 @@ flowchart TD
 
 ---
 
-## 🎛️ Weapons & Technology Stack
+## 🎛️ Weapons & Technology Arsenal
 
 <div align="center">
 
-| Layer | Specialization & Tooling |
-|:---|:---|
-| **Low-Level & Hardware** | `Rust` `C / C++` `x86_64 Assembly` `LLVM IR` `Cranelift` `QEMU` `Limine Protocol` |
-| **Compiler & Runtimes** | `Tree-sitter (CST)` `Bytecode VMs` `NaN-Boxing` `AST Lowering` `JIT Compilation` |
-| **AI Systems & Security** | `Meta Llama 3.3` `PyTorch` `DPoP (RFC 9449)` `Autonomous Agents` `SIEM Packet Inspection` |
-| **Interactive & Web3** | `React 19` `TypeScript` `Three.js / WebGL` `EVM Invariants` `Quantum Circuit Logic` |
-| **Mathematical Domain** | `Abstract Algebra` `Formal Invariant Testing` `Bell States & Grover Search` `Cryptography` |
+<!-- Custom Flagship Systems Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AAYU_LANG-Intent--to--Silicon-00F5D4?style=for-the-badge&logo=rust&logoColor=black&labelColor=07080D" alt="AAYU"/>
+  <img src="https://img.shields.io/badge/YELLOW--FLASH--OS-Amnesic_Micro--Kernel-F7DF1E?style=for-the-badge&logo=linux&logoColor=black&labelColor=07080D" alt="Yellow-Flash-OS"/>
+  <img src="https://img.shields.io/badge/NOTEER-AI_Security_Shield-0468D7?style=for-the-badge&logo=meta&logoColor=white&labelColor=07080D" alt="Noteer"/>
+  <img src="https://img.shields.io/badge/SOLIDITY-EVM_Smart_Contracts-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=07080D" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/KUBERNETES-Cloud_Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=07080D" alt="Kubernetes"/>
+</p>
+
+<!-- Tier 1: Core Compilers, Kernel & Systems Languages -->
+<p align="center">
+  <b>Low-Level, Kernel, Compilers &amp; Blockchain:</b><br/>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,solidity,py,ts,bash,linux,ubuntu&theme=dark" alt="Low Level Languages" />
+  </a>
+</p>
+
+<!-- Tier 2: AI/ML, Cloud Infrastructure, Containers & Graphics -->
+<p align="center">
+  <b>AI / ML, LLMs, Cloud Orchestration &amp; 3D Graphics:</b><br/>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,kubernetes,react,threejs,git,githubactions&theme=dark" alt="Cloud and AI Infrastructure" />
+  </a>
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="25%"><b>🤖 AI &amp; LLMs</b></td>
+    <td><code>PyTorch</code> <code>TensorFlow</code> <code>Meta Llama 3.3</code> <code>Tree-sitter (CST)</code> <code>AST Analysis</code> <code>DPoP RFC 9449</code></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>⚙️ Compilers &amp; Bare-Metal</b></td>
+    <td><code>AAYU Lang</code> <code>Rust</code> <code>C / C++</code> <code>x86_64 ASM</code> <code>LLVM</code> <code>Cranelift</code> <code>silicon-vm JIT</code></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>☁️ Cloud &amp; Micro-OS</b></td>
+    <td><code>yellow-flash-os</code> <code>Docker</code> <code>Kubernetes</code> <code>Linux Kernel</code> <code>Limine Bootloader</code> <code>QEMU</code></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>⛓️ Web3 &amp; Distributed</b></td>
+    <td><code>Golang</code> <code>Solidity</code> <code>EVM Invariants</code> <code>neuro-ledger</code> <code>apex-hft</code> <code>Quantum Sim (QKD)</code></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Global Cyber Defense & Threat Surveillance Radar
+
+<div align="center">
+
+<!-- Bespoke 4K Vector Animated FBI / Cyber Defense HUD -->
+<img src="./assets/cyber_defense_hud.svg" width="100%" alt="Cyber Defense Radar HUD" />
+
+<br/><br/>
+
+<!-- Real-Time Worldwide Attack Vector Map -->
+<img src="https://raw.githubusercontent.com/qeeqbox/raven/main/readme/intro.gif" width="100%" alt="Worldwide Cyber Threat Intelligence Map" style="border-radius: 8px; border: 1px solid #00F5D4;"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,py,ts,react,threejs,docker,linux,githubactions&theme=dark" alt="Arsenal" />
+<!-- Live Incident Command Typing HUD -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=700&color=00F5D4&center=true&vCenter=true&width=800&lines=%5B%E2%9C%93%5D+NOTEER+CST+RADAR%3A+SCANNING+LLM+CODEGEN+FOR+SLOPSQUATTING...;%5B!%5D+CYBER-SENTINEL%3A+INSPECTING+MICROSECOND+NETWORK+PACKETS...;%5B%E2%9C%93%5D+NEURO-LEDGER%3A+BLOCKCHAIN+INVARIANTS+SECURED+%7C+ZERO+BREACHES;%5B%2B%5D+WORLD+POLICE+DEFENSE+GRID%3A+SYSTEM+ONLINE.+LEVEL+5+TOP+SECRET." alt="Cyber Defense Feed" />
+</a>
 
 </div>
 
@@ -175,18 +230,9 @@ flowchart TD
 
 ---
 
-## 📡 Live Cyber Activity & Neon Snake Animation
+## 📡 Live Telemetry & GitHub Metrics
 
 <div align="center">
-
-<!-- Glowing Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghrit-igl/Ghrit-igl/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghrit-igl/Ghrit-igl/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ghrit-igl/Ghrit-igl/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-<br/><br/>
 
 <!-- Realtime Streak & Stats Cards -->
 <a href="https://git.io/streak-stats">
