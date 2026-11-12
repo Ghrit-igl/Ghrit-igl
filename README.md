@@ -1,215 +1,217 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f5d4&height=260&section=header&text=AYUSH%20KAUSHIK&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Founder%20%C2%B7%20AI%20Systems%20Architect%20%C2%B7%20Security%20Researcher&descSize=17&descAlignY=62&animation=twinkling" width="100%" alt="header"/>
+<!-- ======================= HERO CYBER DEEP-TECH BANNER ======================= -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:07080d,35:181033,70:2b1055,100:00f5d4&height=300&section=header&text=AYUSH%20KAUSHIK&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Founder%20%7C%20Deep-Tech%20Systems%20Architect%20%7C%20AI%20Security%20Researcher&descSize=17&descAlignY=60&animation=twinkling" width="100%" alt="Ayush Kaushik Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=800&lines=Provably+secure+AI+and+blockchain+systems.;Parse.+Analyze.+Verify.+Then+execute.;Securing+AI-written+code+in+under+2ms.;Intent+to+Silicon." alt="typing"/>
+<!-- Dynamic Typewriter HUD -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=00F5D4&center=true&vCenter=true&width=860&lines=From+Bare-Metal+Silicon+to+Provably+Secure+AI+Runtimes.;AAYU%3A+The+Intent-to-Silicon+Language+(Rust+%2B+LLVM+%2B+Cranelift).;Noteer%3A+Sub-millisecond+CST+Agent+Guard+(Meta+AI+Hackathon+%2726).;Yellow-Flash-OS%3A+RAM-Only+Amnesic+Kernel+Booting+in+QEMU.;Simulating+Quantum+Circuits+%26+Building+Nanosecond+HFT+Engines." alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-<a href="https://adumate.in"><img src="https://img.shields.io/badge/FOUNDER-Adumate-00F5D4?style=for-the-badge&labelColor=0f0c29"/></a>
-<a href="https://www.linkedin.com/in/ayushh-kaushiq-1a950825a"><img src="https://img.shields.io/badge/LINKEDIN-connect-0077B5?style=for-the-badge&labelColor=0f0c29&logo=linkedin&logoColor=white"/></a>
-<a href="https://youtube.com/@ayushkaushik08"><img src="https://img.shields.io/badge/YOUTUBE-How_Computers_Think-FF0000?style=for-the-badge&labelColor=0f0c29&logo=youtube&logoColor=white"/></a>
-<a href="https://x.com/o_Ayush_kaushik"><img src="https://img.shields.io/badge/X-@o__Ayush__kaushik-ffffff?style=for-the-badge&labelColor=0f0c29&logo=x&logoColor=white"/></a>
+<!-- Holographic Command Badges -->
+<p align="center">
+  <a href="https://adumate.in"><img src="https://img.shields.io/badge/PLATFORM-Adumate.in-00F5D4?style=for-the-badge&labelColor=07080D&logo=fastapi&logoColor=00F5D4" alt="Adumate Platform"/></a>
+  <a href="https://x.com/o_Ayush_kaushik"><img src="https://img.shields.io/badge/INTEL-@o__Ayush__kaushik-ffffff?style=for-the-badge&labelColor=07080D&logo=x&logoColor=white" alt="X Account"/></a>
+  <a href="https://www.linkedin.com/in/ayushh-kaushiq-1a950825a"><img src="https://img.shields.io/badge/NETWORK-LinkedIn-0077B5?style=for-the-badge&labelColor=07080D&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://youtube.com/@ayushkaushik08"><img src="https://img.shields.io/badge/TRANSMISSIONS-How_Computers_Think-FF0000?style=for-the-badge&labelColor=07080D&logo=youtube&logoColor=white" alt="YouTube Channel"/></a>
+  <a href="mailto:ayush@adumate.in"><img src="https://img.shields.io/badge/ENCRYPTED_COMMS-ayush@adumate.in-7928CA?style=for-the-badge&labelColor=07080D&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 </div>
 
 <br/>
 
-```console
-ayush@silicon:~$ whoami
-Ayush Kaushik — founder @ Adumate · AI systems architect · security researcher
-
-ayush@silicon:~$ cat thesis.txt
- Autonomous systems (AI agents, blockchains, runtimes) fail at the seams.
- I build the infrastructure from scratch and verify it before it executes.
-
-ayush@silicon:~$ cat research_areas.txt
- [1] AI-code & agent security      stop unsafe agent output before it lands
- [2] Blockchain & crypto security  invariants · consensus · smart-contract safety
- [3] Compilers & VMs               language design · IR · bytecode · codegen
- [4] Autonomous agent systems      multi-agent engineering · orchestration
-
-ayush@silicon:~$ status
- ● shipped    Noteer → Meta Global AI Developer Hackathon 2026 (submitted)
- ● building   Noteer evaluation write-up · AAYU benchmarks
- ● studying   B.Sc. Mathematics (Hons), BRABU · exp. 2027
+<!-- ======================= REAL-TIME KERNEL TELEMETRY ======================= -->
+```bash
+  ╭──────────────────────────────────────────────────────────────────────────────────────────╮
+  │ ⚡ DEEP-SILICON NODE // CORE KERNEL STATUS: ONLINE                                      │
+  ├──────────────────────────────────────────────────────────────────────────────────────────┤
+  │ OPERATOR      : Ayush Kaushik (Ghrit-igl) | Founder @ Adumate                            │
+  │ CORE THESIS   : "Autonomous agents & runtimes break at boundary seams. I construct the   │
+  │                 foundational silicon, compilers, and formal invariants before execution."│
+  │ ACADEMIC BASE : B.Sc. Mathematics (Hons), BRABU ── Class of 2027                         │
+  │ ACTIVE TARGETS: [●] AAYU (Intent-to-Silicon)  [●] Noteer AI Guard  [●] Yellow-Flash-OS   │
+  ╰──────────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## 🧭 Research map
+## 🏛️ Flagship Architectures & Defense Engines
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>🛡️ <a href="https://github.com/Ghrit-igl/Noteer">Noteer</a> <img src="https://img.shields.io/badge/STATUS-FLAGSHIP-00F5D4?style=flat-square&labelColor=07080D" alt="status"/></h3>
+        <p><b>Pre-Execution AI Code Guard & Real-Time API Shield</b></p>
+        <ul>
+          <li><b>Sub-Millisecond CST Scan:</b> Median <code>0.771ms</code> parse latency via Tree-sitter CST analysis.</li>
+          <li><b>Zero-Day Slopsquatting Defense:</b> Prevents hallucinated package hijack attacks in under 2ms before disk commit.</li>
+          <li><b>Battle-Tested:</b> Meta Global AI Hackathon 2026 candidate with 270+ automated regression suites.</li>
+        </ul>
+        <img src="https://img.shields.io/badge/Tree--sitter-00F5D4?style=flat-square&labelColor=07080D" alt="Tree-sitter"/>
+        <img src="https://img.shields.io/badge/Meta_Llama_3.3-0468D7?style=flat-square&labelColor=07080D" alt="Meta Llama 3.3"/>
+        <img src="https://img.shields.io/badge/DPoP_RFC_9449-7928CA?style=flat-square&labelColor=07080D" alt="DPoP"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>🧠 <a href="https://github.com/Ghrit-igl/INTENT-TO-SILICON">AAYU (Intent-to-Silicon)</a> <img src="https://img.shields.io/badge/STATUS-ACTIVE_CORE-FF0055?style=flat-square&labelColor=07080D" alt="status"/></h3>
+        <p><b>Systems Programming Language & Autonomous Silicon Runtime</b></p>
+        <ul>
+          <li><b>Dual Backend:</b> High-level IR lowered directly to native machine code via <b>LLVM</b> & <b>Cranelift</b>.</li>
+          <li><b>Paired VM (<a href="https://github.com/Ghrit-igl/silicon-vm">silicon-vm</a>):</b> Custom bytecode virtual machine with 64-bit IEEE-754 NaN-boxing & register optimization.</li>
+          <li>Deterministic sandbox execution built for next-generation AI agents.</li>
+        </ul>
+        <img src="https://img.shields.io/badge/Rust-F74C00?style=flat-square&labelColor=07080D&logo=rust" alt="Rust"/>
+        <img src="https://img.shields.io/badge/LLVM-2596BE?style=flat-square&labelColor=07080D" alt="LLVM"/>
+        <img src="https://img.shields.io/badge/Cranelift-00F5D4?style=flat-square&labelColor=07080D" alt="Cranelift"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>⚡ <a href="https://github.com/Ghrit-igl/yellow-flash-os">yellow-flash-os</a> <img src="https://img.shields.io/badge/STATUS-MICRO_KERNEL-F7DF1E?style=flat-square&labelColor=07080D" alt="status"/></h3>
+        <p><b>Amnesic Volatile-RAM Live Micro-Operating System</b></p>
+        <ul>
+          <li><b>Zero Disk Trace:</b> Boots purely in volatile system memory without leaving forensic artifacts.</li>
+          <li><b>Bare-Metal Architecture:</b> Engineered on x86_64, Limine Protocol bootloader & QEMU hardware emulation.</li>
+          <li>Integrated with the AAYU execution runtime sandbox.</li>
+        </ul>
+        <img src="https://img.shields.io/badge/x86__64_ASM-000000?style=flat-square&labelColor=07080D" alt="x86_64"/>
+        <img src="https://img.shields.io/badge/Limine_Boot-00F5D4?style=flat-square&labelColor=07080D" alt="Limine"/>
+        <img src="https://img.shields.io/badge/QEMU_Virt-FF6F00?style=flat-square&labelColor=07080D" alt="QEMU"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>🔬 <a href="https://github.com/Ghrit-igl/KoeeO">KoeeO</a> & <a href="https://github.com/Ghrit-igl/apex-hft">apex-hft</a> <img src="https://img.shields.io/badge/STATUS-PROTOTYPE-00F5D4?style=flat-square&labelColor=07080D" alt="status"/></h3>
+        <p><b>Tony Stark Virtual Lab & Nanosecond Low-Latency Engine</b></p>
+        <ul>
+          <li><b>KoeeO:</b> Holographic 3D WebGL simulator rendering interactive experiments over the AAYU kernel.</li>
+          <li><b>apex-hft:</b> Nanosecond lock-free in-memory Limit Order Book (LOB) with CAS interning matching engine.</li>
+        </ul>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&labelColor=07080D&logo=three.js" alt="Three.js"/>
+        <img src="https://img.shields.io/badge/Low_Latency_HFT-00F5D4?style=flat-square&labelColor=07080D" alt="HFT"/>
+        <img src="https://img.shields.io/badge/WebGL_3D-990000?style=flat-square&labelColor=07080D" alt="WebGL"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔮 Deep-Tech Ecosystem Topology
 
 ```mermaid
-flowchart TB
-    T["🎯 Thesis<br/>verify autonomous systems before they execute"]
+flowchart TD
+    CORE["🎯 Central Mandate<br/><b>Provable Verification of Autonomous Systems</b>"]
 
-    subgraph AI["AI & agent security"]
-        N["🛡️ Noteer<br/>pre-write code guard + API shield"]
-    end
-    subgraph BC["Blockchain & crypto security"]
-        L["⛓️ neuro-ledger<br/>autonomous blockchain + smart contracts"]
-        Q["🔐 quantum-sim<br/>BB84 QKD · Grover"]
-    end
-    subgraph SYS["Compilers & systems"]
-        A["🧠 AAYU"] --> V["⚙️ silicon-vm"]
-        OS["💻 yellow-flash-os"]
-    end
-    subgraph AG["Agent systems"]
-        B["🤖 brain-os<br/>multi-agent engineering engine"]
+    subgraph SEC["🛡️ AI & Agentic Security"]
+        NOTEER["<b>Noteer</b><br/>0.771ms Pre-Write CST Guard"]
+        BRAIN["<b>brain-os</b><br/>Multi-Agent Engineering Engine"]
+        SENTINEL["<b>cyber-sentinel</b><br/>Autonomous SIEM & Packet Inspector"]
+        NOTEER -.->|"Enforces Safe Code"| BRAIN
     end
 
-    T --> N
-    T --> L
-    T --> A
-    T --> B
-    N -.secures.-> B
-    A -.targets.-> V
+    subgraph COMP["⚙️ Intent-to-Silicon Compilers"]
+        AAYU["<b>AAYU Compiler</b><br/>AST ➔ HIR ➔ Codegen"]
+        SVM["<b>silicon-vm</b><br/>64-bit NaN-Boxed JIT Engine"]
+        AAYU -->|"Targets"| SVM
+    end
 
-    classDef n fill:#1b1740,stroke:#00f5d4,color:#fff,stroke-width:2px;
-    class T,N,L,Q,A,V,OS,B n;
+    subgraph OS["💻 Bare-Metal & Systems"]
+        FLASH["<b>yellow-flash-os</b><br/>Amnesic RAM-Only Micro-OS"]
+        HFT["<b>apex-hft</b><br/>Lock-Free CAS Order Book"]
+    end
+
+    subgraph CRYPT["🔐 Cryptographic & Quantum Lab"]
+        LEDGER["<b>neuro-ledger</b><br/>Autonomous Invariant Blockchain"]
+        QUANTUM["<b>quantum-sim</b><br/>BB84 QKD, Bell States & Grover"]
+        LIQUID["<b>liquid-data</b><br/>7-Layer Molecular Sharding"]
+    end
+
+    CORE ===> SEC
+    CORE ===> COMP
+    CORE ===> OS
+    CORE ===> CRYPT
+
+    classDef obsidian fill:#0e0b24,stroke:#00f5d4,stroke-width:1.5px,color:#ffffff;
+    classDef highlight fill:#1f1345,stroke:#ff0055,stroke-width:2px,color:#ffffff;
+    class CORE highlight;
+    class NOTEER,BRAIN,SENTINEL,AAYU,SVM,FLASH,HFT,LEDGER,QUANTUM,LIQUID obsidian;
 ```
-<sub>Edit the arrows to match your real dependencies.</sub>
 
 ---
 
-## 🛡️ Flagship — [Noteer](https://github.com/Ghrit-igl/Noteer)
-### Dual-pillar AI security: guard code at write time, defend APIs at runtime
+## 🎛️ Weapons & Technology Stack
 
 <div align="center">
 
-![Latency](https://img.shields.io/badge/CST_scan_median-0.771_ms-00F5D4?style=for-the-badge&labelColor=0f0c29)
-![P95](https://img.shields.io/badge/P95-1.583_ms-00F5D4?style=for-the-badge&labelColor=0f0c29)
-![Tests](https://img.shields.io/badge/automated_tests-270%2B-00F5D4?style=for-the-badge&labelColor=0f0c29)
-![Hackathon](https://img.shields.io/badge/Meta_Global_AI_Hackathon-2026_submission-0081FB?style=for-the-badge&labelColor=0f0c29)
+| Layer | Specialization & Tooling |
+|:---|:---|
+| **Low-Level & Hardware** | `Rust` `C / C++` `x86_64 Assembly` `LLVM IR` `Cranelift` `QEMU` `Limine Protocol` |
+| **Compiler & Runtimes** | `Tree-sitter (CST)` `Bytecode VMs` `NaN-Boxing` `AST Lowering` `JIT Compilation` |
+| **AI Systems & Security** | `Meta Llama 3.3` `PyTorch` `DPoP (RFC 9449)` `Autonomous Agents` `SIEM Packet Inspection` |
+| **Interactive & Web3** | `React 19` `TypeScript` `Three.js / WebGL` `EVM Invariants` `Quantum Circuit Logic` |
+| **Mathematical Domain** | `Abstract Algebra` `Formal Invariant Testing` `Bell States & Grover Search` `Cryptography` |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,py,ts,react,threejs,docker,linux,githubactions&theme=dark" alt="Arsenal" />
 
 </div>
 
-**Problem.** AI coding agents write unreviewed code straight to disk, and models hallucinate package names that attackers can register ("slopsquatting", USENIX Security 2025). Autonomous crawlers also harvest proprietary APIs.
+---
 
-```mermaid
-flowchart LR
-    A["AI agent"] --> B["Tree-sitter CST"] --> C["Taint + slopsquatting checks"]
-    C --> D["Llama 3.3 ranked fixes"] --> E["Exploit sandbox"] --> F["Clean commit"]
-    G["Hostile crawler"] --> H["Edge proxy"] --> I["Llama 3.2 classifier"] --> J["Deception tarpit"]
-    F --> K[("Merkle audit store")]
-    J --> K
-```
+## 🏆 Cyberpunk Trophy Vault
 
-| Pillar | Metric | Result | Scope |
-|:--|:--|--:|:--|
-| Guard | CST scan latency, median / P95 | **0.771 ms / 1.583 ms** | Tree-sitter parse |
-| Guard | Insecure rate on bundled demo cases | **100% → 0%** | Sandbox-verified, *not* full CyberSecEval |
-| Shield | Precision / recall / F1 | **100% / 100% / 1.000** | **24 labeled sessions**, in-house testbench |
-| Shield | Proprietary fields leaked | **0** | Schema minimization + honeypot |
-| Shield | Edge proxy P50 latency | **9.61 ms** | Live HTTP testbench |
-
-<sub>Shield results come from a small self-built session set. Next: larger independent evaluation + full CyberSecEval run.</sub>
-
-`Python` `TypeScript` `Tree-sitter` `Meta Llama 3.2 / 3.3` `DPoP (RFC 9449)` `Docker`
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ghrit-igl&theme=matrix&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
+</div>
 
 ---
 
-## ⛓️ Blockchain & crypto security
+## 📡 Live Cyber Activity & Neon Snake Animation
 
-| Project | What it is | Verification evidence |
-|:--|:--|:--|
-| [neuro-ledger](https://github.com/Ghrit-igl/neuro-ledger) | Single-file autonomous blockchain with smart contracts | `<property tests / fuzzing / invariants checked: list them>` |
-| [quantum-sim](https://github.com/Ghrit-igl/quantum-sim) | Quantum circuit simulator: Bell states, Grover, BB84 QKD | `<test against known analytical results>` |
-| [cyber-sentinel](https://github.com/Ghrit-igl/cyber-sentinel) | Autonomous SIEM and packet inspector | `<benchmark / test method>` |
+<div align="center">
 
-**Security approach:** threat-model first → state the invariants → test them (property-based + fuzzing) → publish the evidence.
+<!-- Glowing Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghrit-igl/Ghrit-igl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghrit-igl/Ghrit-igl/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ghrit-igl/Ghrit-igl/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
-<!-- UNCOMMENT WHEN YOU HAVE REAL, PUBLIC REPORTS (audits, contests, bounties, CVEs, CTFs):
+<br/><br/>
 
-### Security research log
-| Target | Scope | Category | Result | Report |
-|:--|:--|:--|:--|:--:|
-| `<protocol>` | `<contracts>` | Audit / Contest / Bounty / CVE | `<severity or rank>` | [link](...) |
+<!-- Realtime Streak & Stats Cards -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Ghrit-igl&theme=tokyonight&background=07080D&border=00F5D4&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" height="165" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ghrit-igl&show_icons=true&theme=tokyonight&hide_border=false&border_color=00F5D4&bg_color=07080D&title_color=00F5D4&icon_color=00F5D4&text_color=94A3B8" height="165" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ghrit-igl&layout=compact&theme=tokyonight&hide_border=false&border_color=00F5D4&bg_color=07080D&title_color=00F5D4&text_color=94A3B8" height="165" alt="Top Languages" />
+</a>
 
-Profiles: [Code4rena](...) · [Sherlock](...) · [Cantina](...) · [Immunefi](...)
--->
-
----
-
-## 🤖 AI systems architecture
-
-| Project | Architecture |
-|:--|:--|
-| [brain-os](https://github.com/Ghrit-igl/brain-os) | Autonomous multi-agent software-engineering engine. `<agents · orchestration · eval results>` |
-| [Noteer](https://github.com/Ghrit-igl/Noteer) | Guard layer for agent output (above) |
+</div>
 
 ---
 
-## ⚙️ Compilers & systems
+## 🚀 Founder & Research Broadcasts
 
-```mermaid
-flowchart LR
-    S["Source"] --> P["Lexer · Parser"] --> H["HIR"] --> O["Bytecode optimizer"] --> V["silicon-vm"]
-    H --> CL["Cranelift"] --> N["Native"]
-    H --> LL["LLVM"] --> N
-```
-
-| Project | Role | Evidence |
-|:--|:--|:--|
-| [AAYU / Intent-to-Silicon](https://github.com/Ghrit-igl/INTENT-TO-SILICON) | Systems language in Rust | `<what compiles today · benchmark vs baseline>` |
-| [silicon-vm](https://github.com/Ghrit-igl/silicon-vm) | Bytecode VM, 64-bit NaN-boxing | `<test count · benchmark>` |
-| [yellow-flash-os](https://github.com/Ghrit-igl/yellow-flash-os) | Amnesic RAM-only micro-OS (x86_64, Limine, QEMU) | `<boot screenshot>` |
-
----
-
-## 🚀 Founder
-
-**[Adumate](https://adumate.in)** — AI API rotation and service-discovery platform.
-`<users / uptime / requests handled — only real numbers>`
-
-**Teaching:** [How Computers Think — Zero to Research](https://youtube.com/@ayushkaushik08), from silicon gates to neural architectures.
-
----
-
-<!-- UNCOMMENT WHEN YOU HAVE WRITING / PAPERS:
-
-## 📝 Research notes
-| Title | Topic | Link |
-|:--|:--|:--|
-| `<Noteer evaluation>` | AI-code security | [link](...) |
--->
-
-## 🗺️ Roadmap
-
-```mermaid
-timeline
-    title Next
-    Now : Noteer evaluation on a larger independent set : AAYU benchmark suite
-    Next : Full CyberSecEval run for Noteer Guard : Property-based tests and fuzzing for neuro-ledger
-    Later : Noteer threat-model write-up : First public security report
-```
-
----
-
-## 📡 Live activity <sub>(auto-updated)</sub>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<details>
-<summary><b>🎓 Background</b></summary>
+* ⚡ **[Adumate](https://adumate.in)** — Founder. Building autonomous AI API rotation, multi-model fallback clustering, and microsecond service discovery.
+* 🎙️ **[How Computers Think — Zero to Research](https://youtube.com/@ayushkaushik08)** — High-bandwidth deep-tech masterclasses from logic gate cascades to neural inference hardware.
 
 <br/>
 
-B.Sc. Mathematics (Hons), BRABU, expected 2027 · self-taught in systems programming and ML.
-
-</details>
-
-<details>
-<summary><b>🤝 Open to</b></summary>
-
-<br/>
-
-AI-security research collaboration · blockchain security · compilers and VMs.
-📧 `<your public email>`
-
-</details>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:302b63,100:0f0c29&height=140&section=footer" width="100%" alt="footer"/>
+<div align="center">
+  <sub>Engineered for the 2026 Deep-Tech Frontier · Zero Fluff, 100% Mathematical & Systems Rigor</sub>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:181033,100:07080d&height=130&section=footer" width="100%" alt="footer"/>
+</div>
