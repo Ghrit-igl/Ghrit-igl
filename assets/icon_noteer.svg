@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="noteer_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A192F"/>
+      <stop offset="100%" stop-color="#041D3B"/>
+    </linearGradient>
+    <filter id="glow_blue" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <rect width="256" height="256" fill="url(#noteer_bg)" rx="60" stroke="#38BDF8" stroke-width="4"/>
+  <path d="M128 50 V100 M128 100 L86 142 M128 100 L170 142" stroke="#38BDF8" stroke-width="4" opacity="0.5"/>
+  <path d="M128 44 L186 68 V128 C186 166 128 200 128 200 C128 200 70 166 70 128 V68 L128 44 Z" fill="none" stroke="#38BDF8" stroke-width="8" filter="url(#glow_blue)"/>
+  <path d="M112 124 L124 136 L148 108" stroke="#00F5D4" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="128" y="234" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, monospace" font-size="22" font-weight="900" fill="#38BDF8" text-anchor="middle" letter-spacing="3">NOTEER</text>
+</svg>

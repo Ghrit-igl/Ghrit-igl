@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="yf_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#181202"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <filter id="glow_yellow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <rect width="256" height="256" fill="url(#yf_bg)" rx="60" stroke="#FEE715" stroke-width="4"/>
+  <g stroke="#FEE715" stroke-width="2" opacity="0.35">
+    <rect x="38" y="46" width="40" height="24" rx="4"/>
+    <rect x="86" y="46" width="40" height="24" rx="4"/>
+    <rect x="134" y="46" width="40" height="24" rx="4"/>
+    <rect x="182" y="46" width="40" height="24" rx="4"/>
+  </g>
+  <path d="M148 42 L88 136 H132 L108 214 L180 114 H134 L148 42 Z" fill="#FEE715" filter="url(#glow_yellow)"/>
+  <text x="128" y="240" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, monospace" font-size="20" font-weight="900" fill="#FEE715" text-anchor="middle" letter-spacing="2">FLASH-OS</text>
+</svg>

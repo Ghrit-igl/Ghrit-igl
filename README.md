@@ -151,28 +151,32 @@ flowchart TD
 
 <div align="center">
 
-<!-- Custom Flagship Systems Badges -->
+<!-- Custom Flagship Systems Squircle Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AAYU_LANG-Intent--to--Silicon-00F5D4?style=for-the-badge&logo=rust&logoColor=black&labelColor=07080D" alt="AAYU"/>
-  <img src="https://img.shields.io/badge/YELLOW--FLASH--OS-Amnesic_Micro--Kernel-F7DF1E?style=for-the-badge&logo=linux&logoColor=black&labelColor=07080D" alt="Yellow-Flash-OS"/>
-  <img src="https://img.shields.io/badge/NOTEER-AI_Security_Shield-0468D7?style=for-the-badge&logo=meta&logoColor=white&labelColor=07080D" alt="Noteer"/>
-  <img src="https://img.shields.io/badge/SOLIDITY-EVM_Smart_Contracts-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=07080D" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/KUBERNETES-Cloud_Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=07080D" alt="Kubernetes"/>
-</p>
-
-<!-- Tier 1: Core Compilers, Kernel & Systems Languages -->
-<p align="center">
-  <b>Low-Level, Kernel, Compilers &amp; Blockchain:</b><br/>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,solidity,py,ts,bash,linux,ubuntu&theme=dark" alt="Low Level Languages" />
+  <a href="https://github.com/Ghrit-igl/INTENT-TO-SILICON">
+    <img src="./assets/icon_aayu.svg" width="58" height="58" alt="AAYU" title="AAYU — Intent-to-Silicon Compiler (Rust + LLVM + Cranelift)" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Ghrit-igl/yellow-flash-os">
+    <img src="./assets/icon_yellow_flash.svg" width="58" height="58" alt="Yellow-Flash-OS" title="yellow-flash-os — Amnesic RAM-Only Micro-Kernel" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Ghrit-igl/Noteer">
+    <img src="./assets/icon_noteer.svg" width="58" height="58" alt="Noteer" title="Noteer — 0.771ms Pre-Execution AI Guard" />
   </a>
 </p>
 
-<!-- Tier 2: AI/ML, Cloud Infrastructure, Containers & Graphics -->
+<!-- Core Systems, Compilers & Low-Level Languages (Squircle Strip) -->
 <p align="center">
-  <b>AI / ML, LLMs, Cloud Orchestration &amp; 3D Graphics:</b><br/>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,kubernetes,react,threejs,git,githubactions&theme=dark" alt="Cloud and AI Infrastructure" />
+    <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,solidity,py,ts,bash,linux,kali&theme=dark" alt="Core Systems &amp; Low-Level Languages" />
+  </a>
+</p>
+
+<!-- AI/ML, Cloud Infrastructure, Containers & Graphics (Squircle Strip) -->
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,docker,kubernetes,react,threejs,wasm,git,githubactions&theme=dark" alt="AI/ML, Cloud &amp; Graphics Infrastructure" />
   </a>
 </p>
 
